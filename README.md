@@ -68,4 +68,4 @@ python Pangu-Weather/inference_iterative.py
 
 ## Notebook
 
-` visualization_notebook.py` helps you to play with the results of pangu weather at different leadtimes, plot the map of weather fields and retrieve the MSE to assess the hierarchical aggregation model.
+`visualization_surface.ipynb` helps you to play with the results of pangu weather at different leadtimes, plot the map of weather fields and retrieve the MSE to assess the hierarchical aggregation model.
