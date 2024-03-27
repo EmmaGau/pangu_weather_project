@@ -30,7 +30,6 @@ The 6-hour model (pangu_weather_6.onnx): [Google drive](https://drive.google.com
 
 The 24-hour model (pangu_weather_24.onnx): [Google drive](https://drive.google.com/file/d/1lweQlxcn9fG0zKNW8ne1Khr9ehRTI6HP/view?usp=share_link)/[Baidu netdisk](https://pan.baidu.com/s/179q2gkz2BrsOR6g3yfTVQg?pwd=eajy)
 
-These models are stored using the ONNX format, and thus can be used via different languages such as Python, C++, C#, Java, etc.
 
 ## Dataset
 
@@ -69,4 +68,4 @@ python Pangu-Weather/inference_iterative.py
 
 ## Notebook
 
-` visualization_notebook.py` helps you to play with the results of pangu weather at different leadtimes, plot the map of weather fields and retrieve the MSE to asses the hiearchical aggregation model.
+` visualization_notebook.py` helps you to play with the results of pangu weather at different leadtimes, plot the map of weather fields and retrieve the MSE to assess the hierarchical aggregation model.
